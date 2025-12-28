@@ -1,5 +1,6 @@
 # SOCMind-README
 SOCMind
+
 SOCMind is an advanced simulator for a Security Operations Center (SOC), designed to provide users with an interactive and applied work experience as a SOC analyst. The project enables real-time analysis of system logs and identification of suspicious activity, with an emphasis on simulating real-world scenarios for identifying cyber threats.
 
 Key features:
