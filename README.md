@@ -13,8 +13,11 @@ Project goal:
 To provide a deep and practical understanding of monitoring and response processes for cyber threats, through an interactive platform that combines training and exposure to real-world scenarios in a controlled environment.
 
 Technologies used:
+
 Backend: Python
+
 Databases: SQL for managing user data, logs and system information
+
 Frontend: HTML, JavaScript, CSS
 
 Why this repository?
